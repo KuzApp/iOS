@@ -1,3 +1,3 @@
-# iOS
+# iOS Development
 
-This GitHUB will be used for iOS development learning proccess.
+This hub will be used for iOS development learning proccess.
